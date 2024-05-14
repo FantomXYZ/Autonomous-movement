@@ -1,0 +1,804 @@
+self.generation = 0
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 0
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 1
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 1
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 1
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 1
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 3
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 3
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 3
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 3
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 3
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 3
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 3
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 3
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 3
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 3
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 3
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 3
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 3
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 3
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 3
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 3
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 3
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 3
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 4
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 4
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 4
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 4
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 4
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 4
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 4
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 4
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 4
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 4
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 4
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 4
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 4
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 4
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 4
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 4
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 4
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 4
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 4
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 4
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 4
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 5
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 5
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 5
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 5
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 5
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 5
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 5
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 5
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 5
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 5
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 5
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 5
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 5
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 5
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 5
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 5
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 5
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 5
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 5
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 5
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 5
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 5
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 5
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 5
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 5
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 5
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 0
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 0
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 1
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 1
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 1
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 1
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 1
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 1
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 0
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 0
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 1
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 1
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 1
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 1
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 1
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 1
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 3
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 3
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 0
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 0
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 1
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 1
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 1
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 1
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 1
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 1
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 3
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 3
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 0
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 0
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 1
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 1
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 1
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 1
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 1
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 1
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 2
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 3
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 3
+Time = 24
+Distance = 420
+End speed = 29
+
+self.generation = 0
+Time = 40
+Distance = 200
+
+self.generation = 0
+Time = 40
+Distance = 200
+
+self.generation = 0
+Time = 40
+Distance = 200
+
+self.generation = 0
+Time = 40
+Distance = 200
+
+self.generation = 0
+Time = 40
+Distance = 200
+
+self.generation = 0
+Time = 40
+Distance = 200
+
+self.generation = 0
+Time = 40
+Distance = 200
+
+self.generation = 0
+Time = 40
+Distance = 200
+
+self.generation = 0
+Time = 40
+Distance = 200
+
+self.generation = 0
+Time = 40
+Distance = 200
+
+self.generation = 0
+Time = 40
+Distance = 200
+
