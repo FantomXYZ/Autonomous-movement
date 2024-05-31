@@ -1,3 +1,3 @@
-# Autonomous-movement
-Course project Repository
+# Autonomous-movement<br>
+Course project Repository<br>
 Целью проекта является применение нейроэволюции для решения задачи автономного движения по трассе любой сложности
